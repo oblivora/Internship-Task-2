@@ -53,12 +53,14 @@ Change `Kp`, `Ki`, `Kd` values in the script and re-run to observe different beh
 | Smooth stable      | Proper tuning | Lock values            |
 
 ### Figure 1 — Default Tuning (Kp=2.0, Ki=0.1, Kd=1.0)
-![Figure 1](Figure_1.png)
+(Figure_1.png<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/e19ea311-2058-47be-920b-6d09ca61cb4d" />
+)
 
 Smooth response with minor overshoot (~10.5 m), settles at target (10 m) by ~15 s.
 
 ### Figure 2 — High Kp (Oscillation)
-![Figure 2](Figure_2.png)
+<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/cae3a6b9-25b7-49ee-b582-653a6ed4437a" />
+
 
 Drone overshoots to ~15 m, oscillates multiple times before settling. Confirms High Kp = Oscillation.
 
@@ -73,4 +75,4 @@ Drone overshoots to ~15 m, oscillates multiple times before settling. Confirms H
 
 ---
 
-*Submitted as part of UAV Design & Simulation Internship — Task 2*
+
