@@ -17,7 +17,7 @@ Internship-Task-2/
 │
 ├── pid_simulation.py                    # PID altitude simulation (starter code from task)
 │
-├── Deliverable1_Concept_Explanation.docx  # Flight dynamics + PID theory (2–3 page document)
+├── Deliverable1_Concept_Explanation.pdf  # Flight dynamics + PID theory (2–3 page document)
 │
 ├── Figure_1.png                         # Graph — Default tuning (Kp=2, Ki=0.1, Kd=1)
 ├── Figure_2.png                         # Graph — High Kp tuning (oscillation observed)
